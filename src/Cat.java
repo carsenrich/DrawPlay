@@ -48,4 +48,5 @@ public class Cat {
 	}
 	
 	//adding a comment for git log update 
+	//added second comment for git log update
 }
