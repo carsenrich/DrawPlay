@@ -46,4 +46,6 @@ public class Cat {
 		// so it doesn't overlap the drawing
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
 	}
+	
+	//adding a comment for git log update 
 }
